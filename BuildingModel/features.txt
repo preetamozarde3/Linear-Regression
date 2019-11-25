@@ -1,0 +1,5 @@
+The features selected for the prediction are the number of rooms, bathrooms and the year the house was built.
+These features are chosen based on the analysis of the correlation matrix. The highest correlation of price is with 
+the distace(-0.21), the number of rooms(0.39), bedrooms(0.3), bathrooms(0.32), cars(0.14) and the year the house was 
+built(-0.21). But the number of bedrooms is rejected as a feature due to a high correlation with the number of 
+rooms(0.77). The correlation of the remainining features is between 0.1 to -0.1. Hence, these are also rejected.

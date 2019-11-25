@@ -1,0 +1,5 @@
+The chosen predicted target is Price. The price of a house is a variable, i.e, it changes based on the market, the
+seasons and a variety of other factors. The other attributes like the location of the houses, the number of rooms, 
+bedrooms or bathroom and the buildingarea are fixed quantities. Hence, it is most benificial to predict the price of 
+the house. The trends in the price can be analysed and the price for a given house can be predicted using a linear
+regression model.  
